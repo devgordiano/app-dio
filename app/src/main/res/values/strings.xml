@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">primeiroapp</string>
+    <string name="app_name">Olá mundo</string>
+    <string name="app_text">Meu primeiro app bilingue (:</string>
 </resources>
